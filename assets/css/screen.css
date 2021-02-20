@@ -5,7 +5,7 @@
 
 
 @media screen and (min-width: 227px) {
-  #wrap {
+  .div {
     display: inline-block;
     justify-content: center;
   }
