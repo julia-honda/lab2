@@ -1,0 +1,12 @@
+
+
+
+
+
+
+@media screen and (min-width: 227px) {
+  #wrap {
+    display: flex;
+    justify-content: center;
+  }
+}
