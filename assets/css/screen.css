@@ -1,8 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap");
 
-
-
-
-
+html {
+  font-family: Merriweather, "Hoefler Text", Georgia, "Times New Roman", Times, Roman, serif;
+  font-size: 1.125em; /*18 /16 = 1.125*/
+  line-height: 1.333333em; /*24 /18 =1.333333 */
+  padding: 1.333333em; /*24 /18 =1.333333 */
+}
 
 @media screen and (min-width: 227px) {
   #wrap {
